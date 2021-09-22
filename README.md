@@ -1,4 +1,4 @@
-:frog: :cursing_face: **Kermit as hate speech recognizer**
+# Kermit as hate speech recognizer :frog: :cursing_face:
 
 ![title](./imgs/kermit.jpg)
 
