@@ -10,9 +10,9 @@ As an example dataset, we will use the [Davidson dataset](https://ojs.aaai.org/i
 
 The architecture of the model is defined in the following image
 
-<div>
+<p align="center">
 <img src="./imgs/architecture.png" width="500"/>
-</div>
+</p>
 
 ## Datasets
 The _Datasets_ folder includes:
