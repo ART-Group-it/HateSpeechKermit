@@ -1,7 +1,6 @@
 # Kermit as hate speech recognizer (_KERM-HATE_) :frog: :cursing_face:
-[![Paper](https://img.shields.io/badge/paper-PeerJ-blue)](https://peerj.com/articles/cs-859/)
-
 <p align="center">
+ [![Paper](https://img.shields.io/badge/paper-PeerJ-blue)](https://peerj.com/articles/cs-859/)
 <img src="./imgs/kermit.jpg" width="500"/>
 
 This notebook contains all the helpful instructions for generating and training Kermit as _hate speech recognizer_.
