@@ -1,8 +1,11 @@
 # Kermit as hate speech recognizer (_KERM-HATE_) :frog: :cursing_face:
+
+<p align="center">
 [![Paper](https://img.shields.io/badge/paper-PeerJ-blue)](https://peerj.com/articles/cs-859/)
 [![Release](https://img.shields.io/badge/release-v.1.2-orange)](https://github.com/ART-Group-it/HateSpeechKermit/releases/tag/v.1.2)
 [![Twitter](https://img.shields.io/badge/Twitter-Write%20a%20tweet-%231DA1F2)](http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20Kerm-Hate%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.)
-
+</p>
+      
 <p align="center">
 <img src="./imgs/kermit.jpg" width="500"/>
 </p>
@@ -16,8 +19,9 @@ This notebook contains all the helpful instructions for generating and training 
 5. [How to cite us](#how-to-cite-us)
 
 ## What about _KERM-HATE_
-In this GitHub we present _KERM-HATE_ : a hate speech recognizer that exploits syntax to highlight the key points that triggered that particular class to the given sentence.
-An example, present [in our paper](https://peerj.com/articles/cs-859/), is the following:
+In this GitHub we present _KERM-HATE_ : a hate speech recognizer that exploits syntax to highlight, given a sentence, the key points that triggered the classification in a certain class.
+_KERM-HATE_ exploits _BERT trasnformer model_ for sequence classification flanked by a KERMIT component.
+An example of our output - present [in our paper](https://peerj.com/articles/cs-859/) - is the following:
 <p align="center">
 <img src="./imgs/Example.png" width="500"/>
 </p>
@@ -37,6 +41,16 @@ The _Datasets_ folder includes:
 3. The _InstagramChromeDriver.ipynb_ is a jupyter notebook to is an easy tool to convert Instagram public-posts into pandas dataframes using ChromeDriver. To learn more about it go to its dedicated [GitHub repository](https://github.com/itsmattei/Catch-Instagram-post-comments).
 
 ## Usability   
+This GitHub repository is divided into the following files and folders:
+```bash
+Datasets
+├── Davidson_dataset.csv            <-- the original Davidson dataset 
+├── Election_datasets.zip           <-- zip file contains the Democratic and the GOP dataset
+├── InstagramChromeDriver.ipynb     <-- Scaprer Instagram comments
+│
+└── Kermit as hate speech recognizer.ipynb      <-- KERM-HATE model and how to train and use it
+```
+To visualize the activation trees, we use the [GitHub repository](https://github.com/ART-Group-it/KERMIT) of the basic version of KERMIT
 
 ## How to cite us
 You can cite us [via a tweet](http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20Kerm-Hate%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.) or using BibTeX citation formatting
