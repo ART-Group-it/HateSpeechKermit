@@ -49,7 +49,7 @@ Datasets
 To visualize the activation trees, we use the [GitHub repository](https://github.com/ART-Group-it/KERMIT) of the basic version of KERMIT
 
 ## How to cite us
-You can cite us [via a tweet](http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20Kerm-Hate%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.) or using BibTeX citation formatting
+You can cite us [via Twitter](http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20Kerm-Hate%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.) or using BibTeX citation formatting
 ```
 @article{10.7717/peerj-cs.859,
  title = {Syntax and prejudice: ethically-charged biases of a syntax-based hate speech recognizer unveiled},
