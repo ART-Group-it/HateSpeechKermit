@@ -1,6 +1,6 @@
 # Kermit as hate speech recognizer (_KERM-HATE_) :frog: :cursing_face:
 [![Paper](https://img.shields.io/badge/paper-PeerJ-blue)](https://peerj.com/articles/cs-859/)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20Kerm-Hate%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.)
+[![Twitter](https://img.shields.io/badge/Twitter-Write%20a%20tweet-%231DA1F2)](http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20Kerm-Hate%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.)
 
 <p align="center">
 <img src="./imgs/kermit.jpg" width="500"/>
