@@ -1,8 +1,5 @@
 # Kermit as hate speech recognizer (_KERM-HATE_) :frog: :cursing_face:
-
-<div align="center">
-  [![Paper](https://img.shields.io/badge/paper-PeerJ-blue)](https://peerj.com/articles/cs-859/)
-</div>
+[![Paper](https://img.shields.io/badge/paper-PeerJ-blue)](https://peerj.com/articles/cs-859/)
 
 <p align="center">
 <img src="./imgs/kermit.jpg" width="500"/>
