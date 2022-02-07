@@ -1,6 +1,6 @@
 # Kermit as hate speech recognizer (_KERM-HATE_) :frog: :cursing_face:
 [![Paper](https://img.shields.io/badge/paper-PeerJ-blue)](https://peerj.com/articles/cs-859/)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20Kerm-Hate%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Ftext%3DHey%2C%2520I%2520created%2520my%2520Kerm-Hate%2520transformer%2520model%2520using%2520this%2520ART-Group-it%2520GitHub%2520repository%253A%26url%3Dhttp%253A%252F%252Fgithub.com%2FART-Group-it%2FHateSpeechKermit%252F%26via%3Ditsmattei%2520.)
 
 <p align="center">
 <img src="./imgs/kermit.jpg" width="500"/>
@@ -52,3 +52,4 @@ In detail, the .zip file consists of:
 }
 ```
 [or via a tweet](http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20Kerm-Hate%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.)
+
