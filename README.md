@@ -44,7 +44,7 @@ Kermit as hate speech recognizer.ipynb          <-- KERM-HATE model and how to t
 Datasets
 ├── Davidson_dataset.csv                        <-- the original Davidson dataset 
 ├── Election_datasets.zip                       <-- zip file contains the Democratic and the GOP dataset
-├── InstagramChromeDriver.ipynb                 <-- Scaprer Instagram comments
+└── InstagramChromeDriver.ipynb                 <-- Scaprer Instagram comments
 ```
 To visualize the activation trees, we use the [GitHub repository](https://github.com/ART-Group-it/KERMIT) of the basic version of KERMIT
 
