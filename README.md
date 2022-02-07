@@ -3,12 +3,20 @@
 <p align="center">
 <img src="./imgs/kermit.jpg" width="500"/>
 </p>
-This notebook contains all the helpful instructions for generating and training Kermit as _hate speech recognizer_.
+This notebook contains all the helpful instructions for generating and training Kermit as _hate speech recognizer_ .
 
-As an example dataset, we will use the [Davidson dataset](https://ojs.aaai.org/index.php/ICWSM/article/view/14955).
+## Index
+1. [What about _KERM-HATE_](#what-about-_kerm-hate_)
+2. Available datasets and generated datasets
+3. Model structure
+4. Usability
+5. How to cite us
+
+## What about _KERM-HATE_
+In this GitHub we present _KERM-HATE_ : a hate speech recognizer that exploits syntax to highlight the key points that triggered that particular class to the given sentence.
+An example, present [in our paper](https://peerj.com/articles/cs-859/), is the following:
 
 ## Model architecture
-
 The architecture of the model is defined in the following image
 
 <p align="center">
