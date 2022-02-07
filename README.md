@@ -6,13 +6,13 @@
 This notebook contains all the helpful instructions for generating and training Kermit as _hate speech recognizer_ .
 
 ## Index
-1. [What about _KERM-HATE_](#what-about-_kerm-hate_)
+1. [What about _KERM-HATE_](##what-about-kerm-hate)
 2. Available datasets and generated datasets
 3. Model structure
 4. Usability
 5. How to cite us
 
-## What about _KERM-HATE_
+## What about KERM-HATE
 In this GitHub we present _KERM-HATE_ : a hate speech recognizer that exploits syntax to highlight the key points that triggered that particular class to the given sentence.
 An example, present [in our paper](https://peerj.com/articles/cs-859/), is the following:
 
