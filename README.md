@@ -1,12 +1,12 @@
 # Kermit as hate speech recognizer (_KERM-HATE_) :frog: :cursing_face:
 [![Paper](https://img.shields.io/badge/paper-PeerJ-blue)](https://peerj.com/articles/cs-859/)
 [![Release](https://img.shields.io/badge/release-v.1.2-orange)](https://github.com/ART-Group-it/HateSpeechKermit/releases/tag/v.1.2)
-[![Twitter](https://img.shields.io/badge/Twitter-Write%20a%20tweet-%231DA1F2)](http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20Kerm-Hate%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.)
+[![Twitter](https://img.shields.io/badge/Twitter-Write%20a%20tweet-%231DA1F2)](http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20KERM-HATE%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.)
       
 <p align="center">
 <img src="./imgs/kermit.jpg" width="500"/>
 </p>
-This notebook contains all the helpful instructions for generating and training Kermit as _hate speech recognizer_ .
+This notebook contains all the helpful instructions for generating and training Kermit as hate speech recognizer.
 
 ## Index
 1. [What about _KERM-HATE_](#what-about-kerm-hate)
@@ -49,7 +49,7 @@ Datasets
 To visualize the activation trees, we use the [GitHub repository](https://github.com/ART-Group-it/KERMIT) of the basic version of KERMIT
 
 ## How to cite us
-You can cite us [via Twitter](http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20Kerm-Hate%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.) or using BibTeX citation formatting
+You can cite us [via Twitter](http://twitter.com/intent/tweet?text=Hey,%20I%20created%20my%20KERM-HATE%20transformer%20model%20using%20this%20ART-Group-it%20GitHub%20repository%3A&url=http%3A%2F%2Fgithub.com/ART-Group-it/HateSpeechKermit%2F&via=itsmattei%20.) or using BibTeX citation formatting
 ```
 @article{10.7717/peerj-cs.859,
  title = {Syntax and prejudice: ethically-charged biases of a syntax-based hate speech recognizer unveiled},
