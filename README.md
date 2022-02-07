@@ -23,3 +23,19 @@ In detail, the .zip file consists of:
   - Democratic dataset
   - GOP dataset    
 
+## How to cite us
+```
+@article{10.7717/peerj-cs.859,
+ title = {Syntax and prejudice: ethically-charged biases of a syntax-based hate speech recognizer unveiled},
+ author = {Mastromattei, Michele and Ranaldi, Leonardo and Fallucchi, Francesca and Zanzotto, Fabio Massimo},
+ year = 2022,
+ month = feb,
+ keywords = {Hate speech, Explainability, Bias, Neural networks, Syntax},
+ volume = 8,
+ pages = {e859},
+ journal = {PeerJ Computer Science},
+ issn = {2376-5992},
+ url = {https://doi.org/10.7717/peerj-cs.859},
+ doi = {10.7717/peerj-cs.859}
+}
+```
