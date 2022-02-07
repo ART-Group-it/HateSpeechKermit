@@ -6,7 +6,7 @@
 This notebook contains all the helpful instructions for generating and training Kermit as _hate speech recognizer_ .
 
 ## Index
-1. [What about _KERM-HATE_](##what-about-kerm-hate)
+1. [What about _KERM-HATE_](#what-about-kerm-hate)
 2. Available datasets and generated datasets
 3. Model structure
 4. Usability
