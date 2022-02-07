@@ -12,7 +12,7 @@ This notebook contains all the helpful instructions for generating and training 
 4. Usability
 5. How to cite us
 
-## What about KERM-HATE
+## What about _KERM-HATE_
 In this GitHub we present _KERM-HATE_ : a hate speech recognizer that exploits syntax to highlight the key points that triggered that particular class to the given sentence.
 An example, present [in our paper](https://peerj.com/articles/cs-859/), is the following:
 
